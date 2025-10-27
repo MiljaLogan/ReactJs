@@ -1,0 +1,11 @@
+
+react is a JavaScript library for building dynamic and interactive user interfaces .
+
+ it was created at Facebook in 2011 and is currently the most widely used JavaScript library or front and Development . 
+
+ DOM --> Document Object Model
+ HMR --> Hot Module Replacement
+
+ components help us write reusable modular and better organized code 
+
+ it's called Create React App or CRA but we also have another tool called Vite that's getting increasingly popular these days because it's much faster and gives us smaller bundle sizes 
