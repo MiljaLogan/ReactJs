@@ -33,6 +33,7 @@ function App() {
       <CheckPassword isValid={false} />
       <Cart />
       <Buttons />
+      <h1 className="text-lime-600">Hello world!</h1>
     </>
   );
 }
